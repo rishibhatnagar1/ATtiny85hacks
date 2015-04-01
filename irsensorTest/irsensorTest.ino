@@ -1,3 +1,9 @@
+/*
+This code has been written by Rishi Gaurav Bhatanagar in an attempt to explore how could I shrinkfy the arduino Projects.
+More details on how this can be done can be found in the tutorials.
+
+P.S put an resistor in series before the LED, it doesn't smell good when it burns, trust me.
+*/
 void setup() {
   // put your setup code here, to run once:
   
